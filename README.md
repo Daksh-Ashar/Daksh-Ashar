@@ -8,7 +8,7 @@ A passionate and results-driven software engineer with extensive experience in d
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Redux, TypeScript, Saas, Bootstrap, Tailwind CSS, DevExtreme React, Ext JS, VegaLite, Responsive Design
 - **Backend:** Node.js, Express, MongoDB, SQL
-- **Other:** C++, Python, Figma, Linux
+- **Other:** C++, Python, Figma, Linux, Jest, React Testing Library
 
 ## 🚀 Focus Areas
 
